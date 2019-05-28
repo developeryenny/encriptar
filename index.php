@@ -168,9 +168,6 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
                     <h5 class="white-text">Romanos 12:21</h5>
                     <p  class="white-text">	No seas vencido por el mal, sino vence con el bien el mal.</p>
                     <ul>
-                        <!--<li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
             <li><a class="white-text" href="#!">Link 4</a></li>-->
                     </ul>
                 </div>
